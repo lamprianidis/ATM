@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UG0t/fp0GRM=",
+  "dgSpecHash": "FjblKAKE/tk=",
   "success": true,
   "projectFilePath": "C:\\Users\\slamp\\source\\repos\\ATM\\ATM\\ATM.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\slamp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\slamp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\slamp\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
